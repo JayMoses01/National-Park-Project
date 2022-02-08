@@ -31,6 +31,7 @@ On our second page there is an arrow in the top right. If you click that it will
 
 Our second page also contains "Back to Results" which will open up the modal if you would like to access some of the other parks that showed up in the original search. 
 
+
 Technologies Used:
 * National Parks Service API
 * Google Maps API
@@ -38,8 +39,10 @@ Technologies Used:
 * CSS
 * JavaScript
 
+
 Link to Deployed Application:
 https://seyaryu.github.io/National-Park-Project/
+
 
 Project Collaborators:
 * Daniel Holland (https://github.com/Seyaryu)
@@ -47,8 +50,5 @@ Project Collaborators:
 * Carlos Castillo (https://github.com/CarlosCastillo123)
 * Jay Moses (https://github.com/JayMoses01)
 
+
 License: MIT
-
-
-
-
