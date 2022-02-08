@@ -38,4 +38,17 @@ Technologies Used:
 * CSS
 * JavaScript
 
+Link to Deployed Application:
 https://seyaryu.github.io/National-Park-Project/
+
+Project Collaborators:
+* Daniel Holland (https://github.com/Seyaryu)
+* Niccolo Eck (https://github.com/niccolosaurus)
+* Carlos Castillo (https://github.com/CarlosCastillo123)
+* Jay Moses (https://github.com/JayMoses01)
+
+License: MIT
+
+
+
+
