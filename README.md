@@ -25,4 +25,11 @@ On our second page there is an arrow in the top right. If you click that it will
 ![reopens-modal](https://raw.githubusercontent.com/Seyaryu/National-Park-Project/main/assets/pics/reopens-modal.PNG)
 Our second page also contains "Back to Results" which will open up the modal if you would like to access some of the other parks that showed up in the original search. 
 
+Technologies Used:
+* National Parks Service API
+* Google Maps API
+* HTML
+* CSS
+* JavaScript
+
 https://seyaryu.github.io/National-Park-Project/
